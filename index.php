@@ -9,5 +9,9 @@
 </head>
 <body>
 <header>Header</header>
+<main>
+    <div></div>
+    <div></div>
+</main>
 </body>
 </html>
